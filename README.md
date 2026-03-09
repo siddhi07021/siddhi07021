@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Siddhi! 👋 
 
-<!--
-**siddhi07021/siddhi07021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **BCA student** in my final semester with a passion for building aesthetic, SEO-friendly web applications and exploring e-commerce opportunities.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills
+- **Languages**: Python, HTML/CSS, Gujarati, English, Hindi (Intermediate Korean/Beginner Chinese)
+- **Frameworks**: Flask, Bootstrap
+- **Data & SEO**: Data Analytics with AI, Search Engine Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+
+#### 💎 [Luxe Shop](link-to-your-repo)
+An e-commerce storefront inspired by **K-drama and C-drama fashion**. Designed with a focus on minimalist UI and high-end brand presentation.
+
+#### 🌍 [Global Currency Visualizer](link-to-your-repo)
+A real-time currency hub featuring **Glassmorphism UI**, dark/light mode persistence, and live API integration for accurate exchange rates.
+
+#### ☕ [Cozy Cup Coffee Shop](link-to-your-repo)
+A 5th-semester web project developed to practice frontend layouts and user interaction.
+
+---
+
+### 📫 Connect with me:
+- 📍 Based in Rajkot, Gujarat
+- 💼 Currently seeking a **120-hour internship**
+- 📧 Email: [siddhiparmar070@gmail.com](mailto:siddhiparmar070@gmail.com)
