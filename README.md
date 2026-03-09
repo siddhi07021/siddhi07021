@@ -22,5 +22,4 @@ A 5th-semester web project developed to practice frontend layouts and user inter
 
 ### 📫 Connect with me:
 - 📍 Based in Rajkot, Gujarat
-- 💼 Currently seeking a **120-hour internship**
 - 📧 Email: [siddhiparmar070@gmail.com](mailto:siddhiparmar070@gmail.com)
